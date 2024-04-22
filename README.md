@@ -2,7 +2,7 @@
 <img src="https://github.com/nathandev0/Badoo_Automation_Bot/blob/da37ef1f57c9ce65213076ff6d78e2c8ff8133ca/Demo.gif" alt="video working"/>
 </p>
 <h1 align="center"> ⬆️ Badoo Automation Bot (iOS, Android) </h1>
-<p align="center"><strong>Appium</strong>-based automated <strong>Badoo account creation</strong>, <strong>profile swiper</strong> and <strong>bio modification on real devices</strong>.</p>
+<p align="center"><strong>Appium</strong>-based automated <strong>Badoo account creation</strong> and <strong>swiping on real devices</strong>.</p>
 <h2 id="contact"> 👀 Functionality: </h2>
 
 - **1) Automated account creation**
