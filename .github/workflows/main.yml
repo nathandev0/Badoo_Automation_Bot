@@ -3,7 +3,7 @@ name: 'Main'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '48 21 * * *' # Runs every day at 9:30 PM UTC
+    - cron: '10 22 * * *' # Runs every day at 9:30 PM UTC
 
 jobs:
   build:
