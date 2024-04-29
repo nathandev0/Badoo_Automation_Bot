@@ -3,11 +3,11 @@ name: Main
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 21 * * *' # Runs every day at 9:30 PM UTC
+    - cron: '48 21 * * *' # Runs every day at 9:30 PM UTC
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout main branch
       - uses: actions/checkout@v3
