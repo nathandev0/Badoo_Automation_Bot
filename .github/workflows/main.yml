@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main branch
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
         
       - name: Create date file
         run: echo $(date) > src/date.txt
