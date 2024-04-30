@@ -24,9 +24,9 @@
 
 <h2 id="contact"> ⚙️ Other automation bots: </h2>
 
-- **1) [TikTok Automation Bot](https://github.com/nathandev0/Tiktok_Automation_Bot)**
-- **2) [Tinder Automation Bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
-- **3) [Bumble Automation Bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
+- **1) [TikTok automation bot](https://github.com/nathandev0/Tiktok_Automation_Bot)**
+- **2) [Tinder automation bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
+- **3) [Bumble automation bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
 
 <h2 id="contact"> 💬 Contact</h2>
 
