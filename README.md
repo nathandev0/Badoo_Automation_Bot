@@ -27,6 +27,8 @@
 - **1) [TikTok automation bot](https://github.com/nathandev0/Tiktok_Automation_Bot)**
 - **2) [Tinder automation bot](https://github.com/nathandev0/Tinder_Automation_Bot)**
 - **3) [Bumble automation bot](https://github.com/nathandev0/Bumble_Automation_Bot)**
+- **4) [TikTok video repurposing bot](https://github.com/nathandev0/Video-Repurposing-Bot)**
+- **5) [Instagram image repurposing bot](https://github.com/nathandev0/Image-Repurposing-Bot)**
 
 <h2 id="contact"> 💬 Contact</h2>
 
