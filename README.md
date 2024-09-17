@@ -8,12 +8,11 @@
 - **1) Automated account creation** (customizable account name, age, gender, orientation, distance, education, bio)
 - **2) Crane container management** (automated creation and deletion of crane containers)
 - **3) App clone management** (automated deletion of app clones)
-- **4) Automated token extraction with export to google sheet**
-- **5) Automated deletion of uploaded pictures from device**
-- **6) Automated swiping with detailed statistics**
-- **7) Account shadow ban detection**
-- **8) GPS location spoofing** (set gps coordinates for each container / app clone)
-- **9) IP address rotation** (unique ip address for each container / app clone)
+- **4) Automated deletion of uploaded pictures from device**
+- **5) Automated swiping with detailed statistics**
+- **6) Account shadow ban detection**
+- **7) GPS location spoofing** (set gps coordinates for each container / app clone)
+- **8) IP address rotation** (unique ip address for each container / app clone)
 
 *and more...*
 
